@@ -51,4 +51,4 @@ Location  : Jaipur, India
 
 ### nk@github ~ $ ./links.sh
 
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE) · [Email](mailto:nishkarshkewlani@gmail.com)
+[LinkedIn](http://www.linkedin.com/in/nishkarshkewlani)) · [Email](mailto:nishkarshkewlani@gmail.com)
